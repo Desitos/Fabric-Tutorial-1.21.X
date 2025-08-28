@@ -1,5 +1,14 @@
 package ca.desitos.tutorialmod;
 
+/*
+
+    My funny little intro to Fabric :]
+    Following a neat tutorial by Kaupenjoe
+    Full tutorial can be found here:
+    https://www.youtube.com/playlist?list=PLKGarocXCE1H_HxOYihQMq0mlpqiUJj4L
+
+ */
+
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
